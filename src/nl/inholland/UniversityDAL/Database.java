@@ -55,7 +55,5 @@ public class Database {
 
 
         managerList.add(new Manager(20,"Donny","Lopez",LocalDate.of(2000,1,21),"donny","donny01"));
-
-
     }
 }
